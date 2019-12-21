@@ -1,7 +1,4 @@
 # Socket_Programming
-It includes socket programming (C language) between a single server and multiple clients using POSIX threads. The client has the option to upload and download files to and from the server respectively.
-
-
 
 Please execute the serv_storage_bash.sh and client_storage.sh in the Desktop path because the program is written to serve file transfer in the folders located on the Desktop.
 Use validation_script to implement the program
